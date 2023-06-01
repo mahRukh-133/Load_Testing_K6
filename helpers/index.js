@@ -1,0 +1,6 @@
+export const email_field = '[placeholder="Email"]'
+export const Password_field = '[placeholder="Password"]'
+export const Login_Button = '.login-signup-button'
+export const ProductionURL = 'https://www.reetro.app/'
+export const producAdmin = 'mahrukh.loxvo13+jack@gmail.com'
+export const SelectCompany= ':nth-child(3) > .team-box-button'
